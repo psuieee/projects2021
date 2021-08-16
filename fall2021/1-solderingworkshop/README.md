@@ -2,7 +2,7 @@
 ## Soldering Workshop
 Date TBA
 
-![Schematic Reference](Images-Schematics/SimpleOscillator.gif)
+![Schematic Reference](images/SimpleOscillator.gif)
 
 ### About 
 WIP
