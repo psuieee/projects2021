@@ -9,4 +9,4 @@ This GitHub repository is for the archival and distribution of materials for the
 | --- | --- |
 | Projects Executive | [Will McGloughlin](https://github.com/wymcg) |
 | Projects Committee | Jackie Cheng
-| Special Thanks | [Ethan Tabler](https://github.com/ethantabler)
+| | [Ethan Tabler](https://github.com/ethantabler)
