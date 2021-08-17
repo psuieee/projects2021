@@ -22,4 +22,5 @@ A short workshop to teach TH and SMD soldering techniques. In this workshop, par
 
 ### Resources
 - [Electronics-Tutorials: 555 Generator Circuits](https://www.electronics-tutorials.ws/waveforms/555-circuits-part-1.html)
+
 ![Schematic Reference](images/SimpleOscillator.gif)
