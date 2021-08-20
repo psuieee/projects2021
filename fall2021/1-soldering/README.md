@@ -13,12 +13,13 @@ A short workshop to teach TH and SMD soldering techniques. In this workshop, par
 - Silicon heat pad (optional)
 
 ### Parts List
+- Demo PCB
 - SOIC-8 LM555
 - 100nF capacitor
 - 220nF capacitor 
 - 1K resistor
 - 10K Alps RK09K Potentiometer
-- Speaker
+- Small Speaker
 
 ### Resources
 - [Electronics-Tutorials: 555 Generator Circuits](https://www.electronics-tutorials.ws/waveforms/555-circuits-part-1.html)
