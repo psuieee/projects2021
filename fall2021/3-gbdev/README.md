@@ -3,7 +3,9 @@
 Date TBA
 
 ### About 
-In this workshop, attendees will learn to use the Game Boy Development Kit (GBDK), the Game Boy Tile Designer (GBTD), and several other tools in order to make their own basic program for the original Nintendo Game Boy. Developed in the mid-2000s and continuing development in 2020 after being abandoned, the GBDK translates a dialect of C into Z80 Assembler in order to make designing your own Game Boy game easier and faster. All required software for 64-bit Windows machines is provided in **_workshop_deps**. For other OSes, refer to the links provided in the required tools list below. Windows emulators such as Wine may be required to run some required software.
+In this workshop, attendees will learn to use the Game Boy Development Kit (GBDK), the Game Boy Tile Designer (GBTD), and several other tools in order to make their own basic program for the original Nintendo Game Boy. Developed in the mid-2000s and continuing development in 2020 after being abandoned, the GBDK translates a dialect of C into Z80 Assembler in order to make designing your own Game Boy game easier and faster. All required software for 64-bit Windows machines is provided in *_workshop_deps*. For other OSes, refer to the links provided in the required tools list below. Windows emulators such as Wine may be required to run some required software.
+
+Batch makefiles are provided for each example GBDK project. While only strictly useful for Windows systems, they may be used as a reference for building *.gb* files on other systems. When running make.bat files in *3-gbdev*, ensure that you are in a directory with a GBDK folder in it. GBDK is provided in each example directory, as well as in *_workshop_deps*.
 
 ### Required Tools
 - Text Editor (Syntax highlighter recommended)
