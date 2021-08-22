@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "555 Timer - Soldering Demo"
-Date "2021-08-15"
+Date "2021-08-17"
 Rev "A"
 Comp "PSU IEEE 2021"
 Comment1 "Designed by Ethan Tabler"
@@ -30,7 +30,7 @@ U 1 1 6119E1AF
 P 4400 1800
 F 0 "J1" H 4480 1792 50  0000 L CNN
 F 1 "BatteryTerminal" H 4480 1701 50  0000 L CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 4400 1800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4400 1800 50  0001 C CNN
 F 3 "~" H 4400 1800 50  0001 C CNN
 	1    4400 1800
 	1    0    0    1   
@@ -182,7 +182,7 @@ U 1 1 611B6206
 P 5550 2700
 F 0 "J2" H 5630 2692 50  0000 L CNN
 F 1 "Output" H 5630 2601 50  0000 L CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 5550 2700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5550 2700 50  0001 C CNN
 F 3 "~" H 5550 2700 50  0001 C CNN
 	1    5550 2700
 	1    0    0    1   
@@ -204,4 +204,144 @@ Wire Wire Line
 	5300 2700 5300 2850
 Text Label 3850 1700 0    50   ~ 0
 VCC
+$Comp
+L Connector:Conn_01x07_Male JX1
+U 1 1 611D420B
+P 2850 5500
+F 0 "JX1" H 2958 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 2958 5890 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 2850 5500 50  0001 C CNN
+F 3 "~" H 2850 5500 50  0001 C CNN
+	1    2850 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX2
+U 1 1 611D5595
+P 3100 5500
+F 0 "JX2" H 3208 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 3208 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 3100 5500 50  0001 C CNN
+F 3 "~" H 3100 5500 50  0001 C CNN
+	1    3100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX3
+U 1 1 611D5BAC
+P 3350 5500
+F 0 "JX3" H 3458 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 3458 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 3350 5500 50  0001 C CNN
+F 3 "~" H 3350 5500 50  0001 C CNN
+	1    3350 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX4
+U 1 1 611D6138
+P 3600 5500
+F 0 "JX4" H 3708 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 3708 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 3600 5500 50  0001 C CNN
+F 3 "~" H 3600 5500 50  0001 C CNN
+	1    3600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX5
+U 1 1 611DBF8A
+P 3850 5500
+F 0 "JX5" H 3958 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 3958 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 3850 5500 50  0001 C CNN
+F 3 "~" H 3850 5500 50  0001 C CNN
+	1    3850 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX6
+U 1 1 611DC60E
+P 4100 5500
+F 0 "JX6" H 4208 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 4208 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 4100 5500 50  0001 C CNN
+F 3 "~" H 4100 5500 50  0001 C CNN
+	1    4100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX7
+U 1 1 611DF87C
+P 4350 5500
+F 0 "JX7" H 4458 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 4458 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 4350 5500 50  0001 C CNN
+F 3 "~" H 4350 5500 50  0001 C CNN
+	1    4350 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male JX8
+U 1 1 611DFC88
+P 4600 5500
+F 0 "JX8" H 4708 5889 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 4708 5890 50  0001 C CNN
+F 2 "Footprints:PinHeader_1x08_P2.54mm" H 4600 5500 50  0001 C CNN
+F 3 "~" H 4600 5500 50  0001 C CNN
+	1    4600 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 5200 4800 5000
+Wire Wire Line
+	4550 5200 4550 5000
+Wire Wire Line
+	4300 5200 4300 5000
+Wire Wire Line
+	4050 5200 4050 5000
+Wire Wire Line
+	3800 5200 3800 5000
+Wire Wire Line
+	3550 5200 3550 5000
+Wire Wire Line
+	3300 5200 3300 5000
+Wire Wire Line
+	3050 5200 3050 5000
+Wire Wire Line
+	3050 5000 3300 5000
+Wire Wire Line
+	5050 5000 5050 5050
+Connection ~ 3300 5000
+Wire Wire Line
+	3300 5000 3550 5000
+Connection ~ 3550 5000
+Wire Wire Line
+	3550 5000 3800 5000
+Connection ~ 3800 5000
+Wire Wire Line
+	3800 5000 4050 5000
+Connection ~ 4050 5000
+Wire Wire Line
+	4050 5000 4300 5000
+Connection ~ 4300 5000
+Wire Wire Line
+	4300 5000 4550 5000
+Connection ~ 4550 5000
+Wire Wire Line
+	4550 5000 4800 5000
+Connection ~ 4800 5000
+Wire Wire Line
+	4800 5000 5050 5000
+$Comp
+L power:GND #PWR0105
+U 1 1 611EA944
+P 5050 5050
+F 0 "#PWR0105" H 5050 4800 50  0001 C CNN
+F 1 "GND" H 5055 4877 50  0000 C CNN
+F 2 "" H 5050 5050 50  0001 C CNN
+F 3 "" H 5050 5050 50  0001 C CNN
+	1    5050 5050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
