@@ -1,7 +1,6 @@
 # Penn State IEEE
 ## Soldering Workshop
-Thursday, September 2nd
-
+Date TBA
 ![Board Front](images/Board-Front.png)
 
 ### About 
