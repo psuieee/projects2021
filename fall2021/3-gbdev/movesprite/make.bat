@@ -1,0 +1,1 @@
+gbdk\bin\lcc  -o MoveSprite.gb main.c smiley.c
