@@ -8,5 +8,5 @@ This GitHub repository is for the archival and distribution of materials for the
 | | |
 | --- | --- |
 | Projects Executive | [Will McGloughlin](https://github.com/wymcg) |
-| Projects Committee | Jackie Cheng
+| Projects Committee | [Jackie Cheng](https://github.com/JCheng1100)
 | | [Ethan Tabler](https://github.com/ethantabler)
