@@ -16,4 +16,4 @@ When making a contribution, please follow this procedure:
 3. Make a pull request to merge changes from your fork to the relevant branch on the main _projects2021_ repo.
 
 ### Example
-If you want to get an idea of what this procedure might look like in action, you may refer to pull request #6, which merged this write-up into main from a fork.
+If you want to get an idea of what this procedure might look like in action, you may refer to pull request psuieee/projects2021#6, which merged this write-up into main from a fork.
