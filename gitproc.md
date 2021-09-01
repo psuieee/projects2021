@@ -14,3 +14,6 @@ When making a contribution, please follow this procedure:
 1. Fork the _projects2021_ repo and/or fetch changes from upstream to ensure that your fork is up to date.
 2. Make changes as necessary in the relevant workshop branch. For example, if contributing to the soldering workshop, switch to _1-soldering_ on your fork and make changes on that branch.
 3. Make a pull request to merge changes from your fork to the relevant branch on the main _projects2021_ repo.
+
+### Example
+If you want to get an idea of what this procedure might look like in action, you may refer to pull request #6, which merged this write-up into main from a fork.
