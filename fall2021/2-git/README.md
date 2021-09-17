@@ -1,6 +1,7 @@
 # Penn State IEEE
 ## Git and GitHub
-Date TBA
+September 16, 2021
+6-8pm in Willard 358
 
 ### About 
 In this workshop, participants will learn to use Git and the Github website. Attendees will learn basic Git theory, and make a basic pull request to the Penn State IEEE Projects 2021 repository.
