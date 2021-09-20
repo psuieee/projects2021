@@ -119,11 +119,11 @@ void loop() {
   char uidStr[32] = "";
   array_to_string(mfrc522.uid.uidByte, 4, uidStr); 
   display.setCursor(0,0);
-  display.print("UID: ");
+  display.print("UID:");
   display.println(uidStr);
   
   // gib picc type name
-  display.print("TYPE: ");
+  display.print("TYPE:");
   display.print(mfrc522.PICC_GetTypeName(piccType));
   display.display();
 
