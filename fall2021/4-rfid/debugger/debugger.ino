@@ -70,7 +70,7 @@ void setup() {
   pinMode(BUTTON_4, INPUT_PULLUP);
   
   // init serial
-  Serial.begin(115200);
+  Serial.begin(9600); // matches default JY-MCU Bluetooth module baudrate
   while(!Serial);
   display.println("Serial Initialized");
   display.display();
