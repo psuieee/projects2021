@@ -15,5 +15,5 @@ When contributing to any of the worksohps in this repository, we ask that you ma
 | | [Noah Stansbury](https://github.com/ns-div)
 | | [Amal Alsubaie](https://github.com/maldth)
 | | Cole Baughman
-| | Luke Miller
+| | [Luke Miller](https://github.com/Imperious74)
 | Advising | [Ethan Tabler](https://github.com/ethantabler)
