@@ -1,0 +1,1 @@
+gbdk\bin\lcc  -o ConfinedSprite.gb main.c smiley.c
