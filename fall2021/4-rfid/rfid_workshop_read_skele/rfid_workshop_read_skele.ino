@@ -35,22 +35,9 @@ void loop() {
   byte len = 18;
 
   // authenticate
-  // code here
-  if (status != MFRC522::STATUS_OK) {
-     Serial.println("Failed to authenticate");
-     return;
-  }
-  Serial.println("Successfully Authenticated");
 
   // get data
-  // code here
-  if (status != MFRC522::STATUS_OK) {
-    Serial.println("Failed to read card");
-    return;
-  }
 
   // print data
-  Serial.print("Data: ");
-  // code here
-  Serial.println();
+  
 }

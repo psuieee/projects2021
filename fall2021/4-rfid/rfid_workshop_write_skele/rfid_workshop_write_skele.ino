@@ -37,17 +37,10 @@ void loop() {
   byte len;
 
   // get data
-  Serial.setTimeout(20000L);
-  Serial.println("Type data to write, ending with #");
-  len = Serial.readBytesUntil('#', (char *) buffer, 30);
-  for (byte i = len; i < 30; i++) buffer[i] = ' '; // pad with spaces
   
-
   block = 1;
   // authenticate
-  // code here
 
   // write
-  // code here
 
 }
