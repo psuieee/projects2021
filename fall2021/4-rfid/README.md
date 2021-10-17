@@ -1,15 +1,19 @@
 # Penn State IEEE
 ## RFID Workshop
-Date TBA
+Thursday, October 14 at 6pm
 
 ### About 
-WIP
+This workshop gives a brief intro to Arduino microcontrollers and the Arduino IDE while also integrating RFID interfaces.
 
 ### Required Tools
-- WIP
+- Arduino Uno or Mega board
+- USB cable
+- Breadboard
 
 ### Parts List
-- WIP
+- MFRC522 dev board
+- 
 
 ### Resources
-- WIP
+- See .pdf and .pptx files for presentation slides
+- [MFRC522 Arduino library](https://www.arduino.cc/reference/en/libraries/mfrc522/)
