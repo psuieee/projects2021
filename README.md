@@ -14,6 +14,6 @@ When contributing to any of the worksohps in this repository, we ask that you ma
 | | [Taylor Casavant](https://github.com/tsc061003)
 | | [Noah Stansbury](https://github.com/ns-div)
 | | [Amal Alsubaie](https://github.com/maldth)
-| | Cole Baughman
+| | [Cole Baughman](https://github.com/ColeBaughman)
 | | [Luke Miller](https://github.com/Imperious74)
 | Advising | [Ethan Tabler](https://github.com/ethantabler)
