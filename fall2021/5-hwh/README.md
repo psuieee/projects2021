@@ -1,6 +1,6 @@
 # Penn State IEEE
 ## Halloween Hackathon
-Thursday, October 28th from 6-10pm
+Thursday, October 28th 2021 from 6-10pm
 
 ### About 
 A creativity-based workshop to have some fun around the halloween holiday. Participants were grouped into teams, each creating their own arduino-centered project. Committee judges evaluated the projects and presented the winners with awards & prizes.
