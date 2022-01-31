@@ -10,7 +10,7 @@ A creativity-based workshop to have some fun around the halloween holiday. Parti
 
 ### Parts List
 - Arduino-friendly personal computer
-- Arduino nano
+- Arduino uno
 - Arduino sensors and parts kit
 - Prizes (candy/merch)
 - Award certificates
