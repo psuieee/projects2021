@@ -1,6 +1,6 @@
 # Penn State IEEE
 ## Mathworks
-Wednesday, November 3rd, 2021 6pm
+Wednesday, November 3rd 2021 starting at 6pm
 
 ### About 
 {description}
