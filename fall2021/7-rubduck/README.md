@@ -3,13 +3,14 @@
 Thursday, December 2nd 2021 from 6-9 pm
 
 ### About 
-{description}
+A hands-on workshop to both raise awareness about the dangers that USB Rubber Duckies can pose, while also showcasing the fun and practical applications they can be used for. 
 
 ### Required Tools
-- {list of required materials}
+- Arduino IDE
 
 ### Parts List
-- {list of required parts/components}
+- DigiSpark ATTINY85 Development Board
+- USB-A to USB-C adapter (recommended)
 
 ### Resources
-- {supplementary links (ie. tutorial videos, external repos, etc.)}
+- Github DigiSpark-Scripts (Explore at your own risk!)
