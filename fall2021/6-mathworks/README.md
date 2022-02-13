@@ -10,7 +10,7 @@ This Mathworks-sponsored workshop showcased what their products, MATLAB and Simu
 - Simulink
 
 ### Parts List
-- 
+- Personal computer
 
 ### Resources
-- 
+- PSU MATLAB https://softwarerequest.psu.edu/Home/Index
